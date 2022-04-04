@@ -1,4 +1,4 @@
-# Data-Structures---Arrays-in-Java
+# Data Structures Arrays in Java
 
 Must read before before going through code
 
